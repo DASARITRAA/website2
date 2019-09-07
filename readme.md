@@ -12,3 +12,4 @@ adding changes for example
 #causing trouble
 
 purposefully creating trouble
+example in order to create conflicts and to resolve them 
