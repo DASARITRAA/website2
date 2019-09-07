@@ -8,3 +8,7 @@ adding changes for example
 #more about merges
 
  changes are a part of automatic merges
+
+#causing trouble
+
+example in order to create conflicts and to resolve them 
